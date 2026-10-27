@@ -1,0 +1,9 @@
+HALLOWEEN JELLY — ORIGINAL AUDIO
+
+Pumpkin Tiptoe — 106 BPM, marimba, 36.23s.
+Moonflower Bells — 90 BPM, celesta, 42.67s.
+A Tiny Pumpkin Carousel — 114 BPM, calliope waltz, 25.26s.
+
+All three scores and instrument synthesis were locally authored for this project using the existing original CatSound PCM instrument kit. MP3 audio is embedded in index.html. No third-party music, recordings, voices, samples or remote audio service. Feedback effects use locally synthesised filtered noise and tones.
+
+Music and effects start only after a user gesture, have independent controls and volume settings, and stop with gameplay pause or page hiding.
